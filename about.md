@@ -4,10 +4,13 @@ title: About
 description: SBCについて
 ---
 
-## Welcome to this web site
+# SBC について
 
-Coming soon...
+SBC はボードゲームをプレーしたり、作ったりして遊んでいる団体です。  
+それ以外の情報はありません。
 
-おいおい、追記します。
+# ゲムマ 2024 秋に初出展します
+
+[ゲムマ 2024 秋の SBC のページ](https://gamemarket.jp/booth?target_gm=2024a&keyword=SBC){:target="\_blank"}
 
 [back](./)
