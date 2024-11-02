@@ -2,11 +2,18 @@
 layout: default
 title: Babel Builders（バベルの建築家たち）
 description: This is the support page for "Babel Builders"
+lang: en
 ---
 
 # Rulebook β-0.5
 
-[日本語ページへ]({% link babel-builders.md %})
+<div style="text-align: right; font-size: 1.2rem; font-weight: bold;">
+  {% if page.lang == "ja" %}
+    <span>Ja / <a href="{% link babel-builders-en.md %}">En</a></span>
+  {% else %}
+    <span><a href="{% link babel-builders.md %}">Ja</a> / En</span>
+  {% endif %}
+</div>
 
 ## Game Overview
 
