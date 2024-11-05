@@ -1,9 +1,9 @@
 ---
 layout: default
-lang: ja
+lang: en
 ---
 
-# **SBC のサポートサイトへようこそ**
+# **Welcome to the SBC Support Site**
 
 <div style="text-align: right; font-size: 1.2rem; font-weight: bold;">
   {% if page.lang == "ja" %}
@@ -13,5 +13,5 @@ lang: ja
   {% endif %}
 </div>
 
-ここは SBC が制作したボードゲームのサポートサイトです。  
-ボードゲームのルールやサポート情報については、上部リンクの **Game List** をご覧ください。
+This is the support site for board games created by SBC.
+For rules and support information on our board games, please check the **Game List** link at the top.

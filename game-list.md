@@ -6,6 +6,14 @@ description: 作成したボードゲームリスト
 
 # **Game List**
 
+<div style="text-align: right; font-size: 1.2rem; font-weight: bold;">
+  {% if page.lang == "ja" %}
+    <span>Ja / <a href="{{site.baseurl}}{% link game-list-en.md %}">En</a></span>
+  {% else %}
+    <span><a href="{{site.baseurl}}{% link game-list.md %}">Ja</a> / En</span>
+  {% endif %}
+</div>
+
 ## **1. バベルの建築家たち/Babel Builders**
 
 <div class="img-container">

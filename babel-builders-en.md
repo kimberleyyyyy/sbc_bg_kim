@@ -5,7 +5,7 @@ description: This is the support page for "Babel Builders"
 lang: en
 ---
 
-# **Rulebook β-0.5**
+# **Rulebook β-0.6**
 
 <div style="text-align: right; font-size: 1.2rem; font-weight: bold;">
   {% if page.lang == "ja" %}
