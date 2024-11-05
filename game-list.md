@@ -2,6 +2,7 @@
 layout: default
 title: Game List
 description: 作成したボードゲームリスト
+lang: ja
 ---
 
 # **Game List**
