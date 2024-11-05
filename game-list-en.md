@@ -39,7 +39,7 @@ A **hidden-role** board game centered around the construction of the Tower of Ba
 
 ---
 
-- [Rulebook](http://127.0.0.1:4000/sbc_bg/babel-builders.html)
+- [Rulebook]({{site.baseurl}}{% link babel-builders-en.md %})
 
 ### **(4) Exhibition Information**
 

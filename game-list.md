@@ -39,7 +39,7 @@ lang: ja
 
 ---
 
-- [ルールブック](http://127.0.0.1:4000/sbc_bg/babel-builders.html)
+- [ルールブック]({{site.baseurl}}{% link babel-builders.md %})
 
 ### **（４）出店情報**
 
