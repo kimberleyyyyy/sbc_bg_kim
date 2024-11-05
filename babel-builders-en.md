@@ -5,7 +5,7 @@ description: This is the support page for "Babel Builders"
 lang: en
 ---
 
-# Rulebook β-0.5
+# **Rulebook β-0.5**
 
 <div style="text-align: right; font-size: 1.2rem; font-weight: bold;">
   {% if page.lang == "ja" %}
@@ -15,13 +15,13 @@ lang: en
   {% endif %}
 </div>
 
-## Game Overview
+## **Game Overview**
 
 - **Number of Players**: 5 to 10
 - **Play Time**: 30 to 45 minutes
 - **Age Range**: 10 and up
 
-## Table of Contents
+## **Table of Contents**
 
 1. [Story](#1-story)
 2. [Contents](#2-contents)
@@ -31,7 +31,9 @@ lang: en
 6. [Seal Phase and Divine Punishment Phase (Reversal) if Architects Win](#6-seal-phase-and-divine-punishment-phase-reversal-if-architects-win)
 7. [Other Important Rules](#7-other-important-rules)
 
-## 1. Story
+## **1. Story**
+
+---
 
 "Then they said, “Come, let us build ourselves a city, with a tower that reaches to the heavens, so that we may make a name for ourselves; otherwise we will be scattered over the face of the whole earth." — Genesis 11:4, NIV
 
@@ -39,7 +41,9 @@ Players work together to build the Tower of Babel. However, within the group lur
 
 [Back to Table of Contents](#table-of-contents)
 
-## 2. Contents
+## **2. Contents**
+
+---
 
 - **Manual QR Code Card**: 1 card
 - **Base Card** (card with a 3x3 grid): 1 card
@@ -65,7 +69,9 @@ Players work together to build the Tower of Babel. However, within the group lur
 
 [Back to Table of Contents](#table-of-contents)
 
-## 3. How to Read the Cards
+## **3. How to Read the Cards**
+
+---
 
 - **Base Card**: **Yellow on Back**
   - Field for tower construction.
@@ -114,9 +120,11 @@ Players work together to build the Tower of Babel. However, within the group lur
 
 [Back to Table of Contents](#table-of-contents)
 
-## 4. Game Setup
+## **4. Game Setup**
 
-### Role List Based on Number of Players
+---
+
+### **Role List Based on Number of Players**
 
 | Players | Messenger of God | Architect | (Zealot) |
 | :-----: | :--------------: | :-------: | :------: |
@@ -129,18 +137,20 @@ Players work together to build the Tower of Babel. However, within the group lur
 
 _Note: There is no specific Zealot role card._
 
-### Special Card List Based on Number of Players
+### **Special Card List Based on Number of Players**
 
-| Players | Divine Punishment Card | Seal Card | Deliberation Card |
-| :-----: | :--------------------: | :-------: | :---------------: |
-|    5    |           1            |     3     |         1         |
-|    6    |           2            |     5     |         2         |
-|    7    |           2            |     5     |         2         |
-|    8    |           3            |     7     |         3         |
-|    9    |           3            |     7     |         3         |
-|   10    |           4            |     9     |         4         |
+| Players | Divine Punishment Card | Seal Card |
+| :-----: | :--------------------: | :-------: |
+|    5    |           1            |     3     |
+|    6    |           2            |     5     |
+|    7    |           2            |     5     |
+|    8    |           3            |     7     |
+|    9    |           3            |     7     |
+|   10    |           4            |     9     |
 
-### Game Setup Procedure
+_Note: All other special cards (Lightning Cards, Storm Cards, and Deliberation Cards) are used regardless of the number of players._
+
+### **Game Setup Procedure**
 
 1. **Prepare the Role Cards**  
    Based on the "Role List Based on Number of Players," separate the role cards, shuffle them well, and distribute one to each player. Only the player may see their role card.
@@ -158,14 +168,16 @@ _Note: There is no specific Zealot role card._
 
 [Back to Table of Contents](#table-of-contents)
 
-## 5. Round Flow
+## **5. Round Flow**
 
-### 1. Architect Selection Phase
+---
+
+### **1. Architect Selection Phase**
 
 - The Master appoints Architects. For **6 players or fewer, appoint 3**; for **7 or more, appoint 4**.
 - Distribute Architect Tokens to appointed players.
 
-### 2. Construction Phase
+### **2. Construction Phase**
 
 1. **Card Selection**
    - Appointed architects select **one card to play** and **one card to discard** from their hands.
@@ -184,7 +196,7 @@ swapped card is discarded face down. 3. **Reveal and Apply Card Effects**
   - **Lightning Card**: Remove two blocks from the highest tower. If multiple towers are of the same height, the Master chooses one.
   - **Deliberation Card**: The Master selects one architect who participated in the construction phase to reveal their **discarded card**.
 
-### Important Rules in the Construction Phase
+### **Important Rules in the Construction Phase**
 
 - **Handling of Divine Punishment Cards**:
   - **Architects** may neither "discard" nor "give" Divine Punishment cards to the Master. They must retain them in hand.
@@ -198,36 +210,38 @@ swapped card is discarded face down. 3. **Reveal and Apply Card Effects**
 - **Handling of Seal Cards**:
   - The Master may play Seal cards during the construction phase, though they have no effect (discarded).
 
-### Communication Recommendations
+### **Communication Recommendations**
 
 - Avoid directly discussing hands or chosen cards.
 - Use indirect expressions like "I have a good card" or "I couldn’t play a great card this time."
 
-### 3. Victory Condition Check Phase
+### **3. Victory Condition Check Phase**
 
 - **Completion of the Tower**: If the tower meets the blueprint card conditions, the Architect team wins and proceeds to the [Seal Phase](#1-seal-phase).
   - The tower is considered complete when it has the required or more blocks as per the blueprint.
 - **Deck Depletion**: If the deck runs out before the tower is complete, the Messenger of God/Zealot team wins.
 - **Divine Punishment Confirmation**: If Divine Punishment is confirmed as per the "Important Rules in the Construction Phase," the Messenger of God/Zealot team wins.
 
-### 4. Hand Replenishment Phase
+### **4. Hand Replenishment Phase**
 
 - Architects who participated in the construction phase draw cards until they have three in hand.
 - Non-participating players retain their current hand.
 
-### 5. Master Appointment Phase
+### **5. Master Appointment Phase**
 
 - The current Master appoints a new Master (other than themselves) and passes the Master Token.
 
-### 6. Proceed to the Next Round
+### **6. Proceed to the Next Round**
 
 - Repeat rounds until victory conditions are met.
 
 [Back to Table of Contents](#table-of-contents)
 
-## 6. Seal Phase and Divine Punishment Phase (Reversal) if Architects Win
+## **6. Seal Phase and Divine Punishment Phase (Reversal) if Architects Win**
 
-### 1. Seal Phase
+---
+
+### **1. Seal Phase**
 
 1. **Declare Use of Seal Cards**
    - Architects with Seal cards declare their use.
@@ -242,7 +256,7 @@ swapped card is discarded face down. 3. **Reveal and Apply Card Effects**
 
 Proceed to the Divine Punishment Phase.
 
-### 2. Divine Punishment Phase
+### **2. Divine Punishment Phase**
 
 1. **Zealot Reveal**
    - Zealots reveal themselves.
@@ -258,11 +272,15 @@ Proceed to the Divine Punishment Phase.
 
 [Back to Table of Contents](#table-of-contents)
 
-## 7. Other Important Rules
+## **7. Other Important Rules**
+
+---
 
 - **Role Declaration Prohibited**
   - The Messenger of God and Zealots cannot declare their roles. Players who declare their roles cannot become the Master.
   - If the Master declares themselves as the Messenger of God or a Zealot, they must return the Master Token and a new Master is chosen.
+- **If you accidentally knock over the tower under construction**
+  - There is no penalty. Stay calm, restack it to its original state, and resume the game.
 - **Handling of Discard Pile**
   - Discarded cards are removed from the game. The discard pile is not shuffled back into the deck, even if it runs out.
 - **Hand Limit**

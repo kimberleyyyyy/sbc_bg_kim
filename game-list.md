@@ -4,10 +4,42 @@ title: Game List
 description: 作成したボードゲームリスト
 ---
 
-## Game List
+# **Game List**
 
-1. **バベルの建築家たち/Babel Builders**
-   - ゲムマ 2024 秋 初出展（予定）
-   - ルール（Coming Soon...）
+## **1. バベルの建築家たち/Babel Builders**
+
+<div class="img-container">
+   <img src="{{site.baseurl}}/assets/img/バベルの建築家たち.jpg" alt="バベルの建築家たち">
+</div>
+
+### **（１）バベルの建築家たちとは**
+
+---
+
+バベルの塔の建築をテーマにした建築家と神の使いとの間の戦略と心理戦が鍵を握る**正体隠匿系**のボードゲームです。
+
+### **（２）ゲームの特徴**
+
+---
+
+- 設計書に記された塔の建築が目標
+- 嵐カードや審議カードといった特殊カードを用いた**多彩な戦略**
+- いつ誰が狂信者（神の使いの配下）になるかわからない**メカニクス**
+
+### **（３）ルール**
+
+---
+
+- [ルールブック](http://127.0.0.1:4000/sbc_bg/babel-builders.html)
+
+### **（４）出店情報**
+
+---
+
+ゲームマーケット 2024 秋 初出展
+
+- [ゲーム紹介ページ](https://gamemarket.jp/game/184202/){:target="\_blank"}
+
+- [お取り置き予約ページ（2024/11/15 17:00 まで）](https://forms.gle/hXJuznfHFSWZwA9p8){:target="\_blank"}
 
 [back](./)
