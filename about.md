@@ -20,6 +20,6 @@ SBC はボードゲームをプレーしたり、作ったりして遊んでい�
 
 # **ゲムマ 2024 秋に初出展します**
 
-[ゲムマ 2024 秋の SBC のページ](https://gamemarket.jp/booth?target_gm=2024a&keyword=SBC){:target="\_blank"}
+[ゲムマ 2024 秋の SBC のページ](https://gamemarket.jp/booth/5511){:target="\_blank"}
 
 [back](./)
