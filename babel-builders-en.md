@@ -50,8 +50,8 @@ Players work together to build the Tower of Babel. However, within the group lur
 - **Material Blocks** (10x10x10 mm cube blocks): 25 blocks
 - **Master Token** (black chip): 1 token
 - **Architect Tokens** (brown chips): 4 tokens
-- **Blueprint Cards** (cards with tower completion conditions): 13 cards
-  - Pre-prepared cards: 10 cards
+- **Blueprint Cards** (cards with tower completion conditions): 12 cards
+  - Pre-prepared cards: 9 cards
   - Player-customizable cards (blank cards): 3 cards
 - **Instruction Cards** (cards with construction instructions): 39 cards
   - 1 Block Construction Card: 18 cards (6 cards × 3 sets)
