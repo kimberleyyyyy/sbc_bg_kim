@@ -5,7 +5,7 @@ description: 『バベルの建築家たち』のサポートページです
 lang: ja
 ---
 
-# **ルールブック β-0.6**
+# **ルールブック 1.0**
 
 <div style="text-align: right; font-size: 1.2rem; font-weight: bold;">
   {% if page.lang == "ja" %}
