@@ -207,6 +207,41 @@ a {
     max-width: none; /* 画像がコンテナを超える可能性を持たせる */
   }
 
+/* モーダルの背景とスタイル */
+.modal {
+  display: none; /* デフォルトでは非表示 */
+  position: fixed;
+  z-index: 1000;
+  padding-top: 60px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.8); /* 黒の半透明 */
+}
+
+/* 閉じるボタン */
+.modal .close {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* 拡大された画像 */
+.modal-content {
+  margin: auto;
+  display: block;
+  max-width: 90vw; /* 画面幅の70%まで */
+  max-height: 90vh; /* 画面高さの70%まで */
+  width: auto;
+  height: auto;
+}
+
   h1,
   h2,
   h3,

@@ -155,7 +155,7 @@ _Note: All other special cards (Lightning Cards, Storm Cards, and Deliberation C
 1. **Prepare the Role Cards**  
    Based on the "Role List Based on Number of Players," separate the role cards, shuffle them well, and distribute one to each player. Only the player may see their role card.
 2. **Prepare the Special Cards**  
-   Based on the "Special Card List Based on Number of Players," set aside the Divine Punishment, Seal, and Deliberation cards.
+   Based on the "Special Card List Based on Number of Players," set aside the Divine Punishment and Seal cards.
 3. **Set Up the Field**
    - Place the base card face up at the center of the table.
    - Shuffle the blueprint cards and place one face up on the table.
@@ -165,6 +165,20 @@ _Note: All other special cards (Lightning Cards, Storm Cards, and Deliberation C
    - If there are six or more players, take out two times the number of players, add the remaining Divine Punishment cards, shuffle, and place them back on top of the deck.
 5. **Determine the Master**  
    Randomly decide the first Master and give them the Master Token.
+
+### **Example of Initial Setup (for 5 Players)**
+
+_Click (or tap) to enlarge. To close, click the "✕" mark in the top right corner._
+
+<div class="img-container">
+  <img src="{{site.baseurl}}/assets/img/初期配置の例.jpg" alt="初期配置" onclick="openModal(this.src)">
+</div>
+
+<!-- モーダル表示用の要素 -->
+<div id="imgModal" class="modal" onclick="closeModal()">
+  <span class="close">&times;</span>
+  <img class="modal-content" id="modalImage">
+</div>
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -177,6 +191,18 @@ _Note: All other special cards (Lightning Cards, Storm Cards, and Deliberation C
 - The Master appoints Architects. For **6 players or fewer, appoint 3**; for **7 or more, appoint 4**.
 - Distribute Architect Tokens to appointed players.
 
+_Click (or tap) to enlarge. To close, click the "✕" mark in the top right corner._
+
+<div class="img-container">
+  <img src="{{site.baseurl}}/assets/img/1_建築家選定フェーズ.jpg" alt="建築家選定" onclick="openModal(this.src)">
+</div>
+
+<!-- モーダル表示用の要素 -->
+<div id="imgModal" class="modal" onclick="closeModal()">
+  <span class="close">&times;</span>
+  <img class="modal-content" id="modalImage">
+</div>
+
 ### **2. Construction Phase**
 
 1. **Card Selection**
@@ -186,15 +212,33 @@ _Note: All other special cards (Lightning Cards, Storm Cards, and Deliberation C
 2. **Master's Action**
    - The Master shuffles and checks the received cards.
    - If a **Storm Card** is included, it is immediately revealed and its effect is applied. This halts the current construction (any instruction card played is rendered useless).
-   - The Master selects one card from the remaining cards and swaps it with one card from their hand. The
+   - The Master selects one card from the remaining cards and swaps it with one card from their hand. The swapped card is discarded face down.
+3. **Reveal and Apply Card Effects**
+   - The remaining cards are revealed one by one, and their effects are applied. **The Master chooses the order of reveal.**
+   - Card effects are as follows:
+     - **Instruction Card**: Stack blocks on the base card according to the instructions.
+     - **Lightning Card**: Remove two blocks from the highest tower. If multiple towers are of the same height, the Master chooses one.
+     - **Deliberation Card**: The Master selects one architect who participated in the construction phase to reveal their **discarded card**.
 
-swapped card is discarded face down. 3. **Reveal and Apply Card Effects**
+**_Note: Card Selection_**  
+_Click (or tap) to enlarge. To close, click the "✕" mark in the top right corner._
 
-- The remaining cards are revealed one by one, and their effects are applied. **The Master chooses the order of reveal.**
-- Card effects are as follows:
-  - **Instruction Card**: Stack blocks on the base card according to the instructions.
-  - **Lightning Card**: Remove two blocks from the highest tower. If multiple towers are of the same height, the Master chooses one.
-  - **Deliberation Card**: The Master selects one architect who participated in the construction phase to reveal their **discarded card**.
+<div class="img-container">
+  <img src="{{site.baseurl}}/assets/img/2_建築フェーズ_カード選択.jpg" alt="Card Selection" onclick="openModal(this.src)">
+</div>
+
+<!-- モーダル表示用の要素 -->
+<div id="imgModal" class="modal" onclick="closeModal()">
+  <span class="close">&times;</span>
+  <img class="modal-content" id="modalImage">
+</div>
+
+**_Note: Master's Action and Application of Card Effects_**  
+_Click (or tap) to enlarge. To close, click the "✕" mark in the top right corner._
+
+<div class="img-container">
+  <img src="{{site.baseurl}}/assets/img/2_建築フェーズ_親方のアクション.jpg" alt="Master's Action and Application of Card Effects" onclick="openModal(this.src)">
+</div>
 
 ### **Important Rules in the Construction Phase**
 
@@ -203,10 +247,15 @@ swapped card is discarded face down. 3. **Reveal and Apply Card Effects**
   - If the **Messenger of God** has one or more Divine Punishment cards, they must "give them to the Master."
   - If a **Zealot** has two or more Divine Punishment cards, they must "give them to the Master" but keep one card.
 - **Master's Handling of Divine Punishment Cards**:
-  - If the Master receives any Divine Punishment cards, they must swap one of their own cards with it, making them a Zealot.
-  - The Master cannot swap Divine Punishment cards already in their hand.
-  - If the Master holds only Divine Punishment cards, they reveal them, resulting in an instant **Messenger of God/Zealot team victory** (known as **Divine Punishment Confirmation**).
-  - If the Master receives two or more Divine Punishment cards in a single phase, they reveal all received Divine Punishment cards, resulting in a **Messenger of God/Zealot team victory** (**Divine Punishment Confirmation**).
+  - If a Divine Punishment card is received, the Master must exchange it with one card from their hand. However, the Master's behavior changes based on their role:
+    - **Architect**  
+      The moment the Master (Architect) receives a Divine Punishment card, they immediately become a Zealot.
+    - **Messenger of God**  
+      Receiving a Divine Punishment card does not change the Messenger of God’s role. The Messenger can use the received Divine Punishment card to pass it to a new Master in the following Construction Phases, increasing their allies (Zealots).
+    - **Zealot**  
+      Receiving a Divine Punishment card does not change the Zealot's role. The Zealot can use the received Divine Punishment card to pass it to a new Master in the following Construction Phases, increasing their allies (Zealots). Note that if the Zealot already holds a Divine Punishment card in their hand, that card cannot be exchanged.
+  - If, by chance, the Master has only Divine Punishment cards in their hand (meaning there are no other cards to exchange), all Divine Punishment cards are revealed, and the Messenger of God/Zealot team wins immediately (**Divine Punishment Confirmation**).
+  - If the Master receives two or more Divine Punishment cards in a single Construction Phase, all received Divine Punishment cards are revealed, and the Messenger of God/Zealot team wins immediately (**Divine Punishment Confirmation**).
 - **Handling of Seal Cards**:
   - The Master may play Seal cards during the construction phase, though they have no effect (discarded).
 
@@ -218,7 +267,7 @@ swapped card is discarded face down. 3. **Reveal and Apply Card Effects**
 ### **3. Victory Condition Check Phase**
 
 - **Completion of the Tower**: If the tower meets the blueprint card conditions, the Architect team wins and proceeds to the [Seal Phase](#1-seal-phase).
-  - The tower is considered complete when it has the required or more blocks as per the blueprint.
+  - The tower is considered complete when it has the **required or more** blocks as per the blueprint.
 - **Deck Depletion**: If the deck runs out before the tower is complete, the Messenger of God/Zealot team wins.
 - **Divine Punishment Confirmation**: If Divine Punishment is confirmed as per the "Important Rules in the Construction Phase," the Messenger of God/Zealot team wins.
 
