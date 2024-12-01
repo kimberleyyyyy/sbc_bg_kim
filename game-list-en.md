@@ -49,6 +49,4 @@ First exhibition at Game Market 2024 Autumn
 
 - [Game Introduction Page](https://gamemarket.jp/game/184202/){:target="\_blank"}
 
-- [Reservation Page (until 5 PM on November 15, 2024)](https://forms.gle/hXJuznfHFSWZwA9p8){:target="\_blank"}
-
 [back](./)
