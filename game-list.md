@@ -49,6 +49,4 @@ lang: ja
 
 - [ゲーム紹介ページ](https://gamemarket.jp/game/184202/){:target="\_blank"}
 
-- [お取り置き予約ページ（2024/11/15 17:00 まで）](https://forms.gle/hXJuznfHFSWZwA9p8){:target="\_blank"}
-
 [back](./)
