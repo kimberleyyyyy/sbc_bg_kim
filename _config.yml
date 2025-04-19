@@ -4,8 +4,22 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
 baseurl: "/sbc_bg"
+
+collections:
+  games:
+    output: true
+    permalink: /games/:name/
+
 defaults:
+  # 画像ディレクトリ設定
   - scope:
       path: "assets/img"
     value:
       image: true
+
+  # games コレクション設定
+  - scope:
+      path: ""
+      type: games
+    values:
+      layout: default

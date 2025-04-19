@@ -39,7 +39,7 @@ lang: ja
 
 ---
 
-- [ルールブック]({{site.baseurl}}{% link babel-builders.md %})
+- [ルールブック]({{site.baseurl}}{% link _games/babel-builders.md %})
 
 ### **（４）出店情報**
 
