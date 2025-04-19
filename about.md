@@ -30,6 +30,6 @@ lang: ja
 - **２０２４**
   - **１１月**
     - ゲムマ 2024 秋 初出展  
-      [バベルの建築家たち / Babel Builders](https://gamemarket.jp/game/184202){:target="\_blank"}
+      [バベルの建築家たち](https://gamemarket.jp/game/184202){:target="\_blank"}
 
 [back](./)
