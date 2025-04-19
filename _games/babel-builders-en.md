@@ -9,9 +9,9 @@ lang: en
 
 <div style="text-align: right; font-size: 1.2rem; font-weight: bold;">
   {% if page.lang == "ja" %}
-    <span>Ja / <a href="{{site.baseurl}}{% link babel-builders-en.md %}">En</a></span>
+    <span>Ja / <a href="{{site.baseurl}}{% link _games/babel-builders-en.md %}">En</a></span>
   {% else %}
-    <span><a href="{{site.baseurl}}{% link babel-builders.md %}">Ja</a> / En</span>
+    <span><a href="{{site.baseurl}}{% link _games/babel-builders.md %}">Ja</a> / En</span>
   {% endif %}
 </div>
 
