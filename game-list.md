@@ -41,7 +41,7 @@ lang: ja
 
 - [ルールブック]({{site.baseurl}}{% link _games/babel-builders.md %})
 
-### **（４）出店情報**
+### **（４）出展情報**
 
 ---
 

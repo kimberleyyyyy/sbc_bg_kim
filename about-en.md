@@ -5,8 +5,6 @@ description: About SBC
 lang: en
 ---
 
-# **About SBC**
-
 <div style="text-align: right; font-size: 1.2rem; font-weight: bold;">
   {% if page.lang == "ja" %}
     <span>Ja / <a href="{{site.baseurl}}{% link about-en.md %}">En</a></span>
@@ -15,11 +13,25 @@ lang: en
   {% endif %}
 </div>
 
-SBC is a group that enjoys playing and creating board games.
-There is no other information about us.
+# **About SBC**
 
-# **Our First Exhibition at Game Market 2024 Autumn**
+We are an organization that enjoys playing and creating board games.  
+Activity started in 2023  
+Began producing board games and first exhibited at Game Market in 2024
 
-[SBC's Game Market 2024 Autumn Page](https://gamemarket.jp/booth/5511){:target="\_blank"}
+# **News**
+
+- **2025**
+
+  - **May**
+    - Foaspiel 2025 Spring Osaka  
+      [Open the Price](https://www.bear.cool/board-game/goods/29870/info){:target="\_blank"}
+    - Game Market 2025 Spring  
+      Coming Soon
+
+- **2024**
+  - **November**
+    - Game Market 2024 Autumn – First Exhibition  
+      [バベルの建築家たち / Babel Builders](https://gamemarket.jp/game/184202){:target="\_blank"}
 
 [back](./)
