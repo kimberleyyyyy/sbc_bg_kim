@@ -6,4 +6,3 @@ lang: ja
 ---
 
 # **Comming**
-test
