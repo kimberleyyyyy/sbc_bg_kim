@@ -6,3 +6,4 @@ lang: ja
 ---
 
 # **Comming Soon...**
+test
