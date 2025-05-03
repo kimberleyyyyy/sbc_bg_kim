@@ -52,6 +52,9 @@ lang: ja
 - **回答カード**：6 枚
 - **予想カード**：6 枚
 - **価格決定カード**：6 枚
+  <div class="img-container">
+    <img src="{{site.baseurl}}/assets/img/価格決定カード１.png" alt="価格決定カード１">
+  </div>
 - **桁カード**：48 枚
   - ０カード：35 枚
   - ００カード：9 枚
