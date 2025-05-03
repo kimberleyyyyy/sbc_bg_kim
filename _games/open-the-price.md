@@ -55,10 +55,27 @@ lang: ja
   <div class="img-container">
     <img src="{{site.baseurl}}/assets/img/価格決定カード１.png" alt="価格決定カード１">
   </div>
+  <div class="img-container">
+    <img src="{{site.baseurl}}/assets/img/価格決定カード２.png" alt="価格決定カード２">
+  </div><div class="img-container">
+    <img src="{{site.baseurl}}/assets/img/価格決定カード３.png" alt="価格決定カード３">
+  </div><div class="img-container">
+    <img src="{{site.baseurl}}/assets/img/価格決定カード４.png" alt="価格決定カード４">
+  </div><div class="img-container">
+    <img src="{{site.baseurl}}/assets/img/価格決定カード５.png" alt="価格決定カード５">
+  </div><div class="img-container">
+    <img src="{{site.baseurl}}/assets/img/価格決定カード６.png" alt="価格決定カード６">
+  </div>
 - **桁カード**：48 枚
   - ０カード：35 枚
+    <img src="{{site.baseurl}}/assets/img/０カード.png" alt="０カード">
+  </div>
   - ００カード：9 枚
+  <img src="{{site.baseurl}}/assets/img/００カード.png" alt="００カード">
+  </div>
   - ０００カード：4 枚
+   <img src="{{site.baseurl}}/assets/img/０００カード.png" alt="０００カード">
+  </div>
 - **マーカーペン**：6 本
 
 [目次に戻る](#目次)
