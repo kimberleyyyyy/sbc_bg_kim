@@ -83,15 +83,21 @@ lang: ja
   </div>
 - **桁カード**：48 枚
   - ０カード：35 枚
-    <img src="{{site.baseurl}}/assets/img/０カード.png" alt="０カード">
-  </div>
+  
+  おもて <img src="{{site.baseurl}}/assets/img/０カード.png" alt="０カード">
+  </div>  うら <img src="{{site.baseurl}}/assets/img/otp_ketacard_ura.png" alt="０カードうら">
+  </div>  
   
   - ００カード：9 枚
-    <img src="{{site.baseurl}}/assets/img/００カード.png" alt="００カード">
-  </div>
+
+   おもて <img src="{{site.baseurl}}/assets/img/００カード.png" alt="００カード">
+  </div>  うら <img src="{{site.baseurl}}/assets/img/otp_ketacard_ura.png" alt="００カードうら">
+  </div>  
   
   - ０００カード：4 枚
-    <img src="{{site.baseurl}}/assets/img/０００カード.png" alt="０００カード">
+  
+   おもて <img src="{{site.baseurl}}/assets/img/０００カード.png" alt="０００カード">
+  </div>  うら <img src="{{site.baseurl}}/assets/img/otp_ketacard_ura.png" alt="０００カードうら">
   </div>
 - **マーカーペン**：6 本
 
