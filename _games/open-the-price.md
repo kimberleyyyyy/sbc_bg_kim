@@ -55,9 +55,11 @@ lang: ja
    おもて<img src="{{site.baseurl}}/assets/img/odai_omote.png" alt="おもて">
   </div>
    うら<img src="{{site.baseurl}}/assets/img/odai_ura.png" alt="うら">
-  </div>
+  </div>  
 - **出品カード**：6 枚
-    
+ <img src="{{site.baseurl}}/assets/img/otp_shuppincard_omote.png" alt="出品カード">
+  </div>  
+  
 - **鑑定カード**：6 枚
 <img src="{{site.baseurl}}/assets/img/brown.png" alt="鑑定カード（ちゃいろ）">
   </div>
