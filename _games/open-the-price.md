@@ -76,18 +76,10 @@ lang: ja
  
 - **価格決定カード**：6 枚
   <div class="img-container">
-    <img src="{{site.baseurl}}/assets/img/価格決定カード１.png" alt="価格決定カード１">
+   おもて <img src="{{site.baseurl}}/assets/img/kakakuketteicard_omote.png" alt="価格決定カードおもて">
   </div>
   <div class="img-container">
-    <img src="{{site.baseurl}}/assets/img/価格決定カード２.png" alt="価格決定カード２">
-  </div><div class="img-container">
-    <img src="{{site.baseurl}}/assets/img/価格決定カード３.png" alt="価格決定カード３">
-  </div><div class="img-container">
-    <img src="{{site.baseurl}}/assets/img/価格決定カード４.png" alt="価格決定カード４">
-  </div><div class="img-container">
-    <img src="{{site.baseurl}}/assets/img/価格決定カード５.png" alt="価格決定カード５">
-  </div><div class="img-container">
-    <img src="{{site.baseurl}}/assets/img/価格決定カード６.png" alt="価格決定カード６">
+    うら<img src="{{site.baseurl}}/assets/img/kakakuketteicard_ura.png" alt="価格決定カードうら">
   </div>
 - **桁カード**：48 枚
   - ０カード：35 枚
